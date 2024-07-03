@@ -1,0 +1,19 @@
+.box{
+    color: blue;
+}
+.heading{
+    color: red;
+}
+button:hover{
+    color: red;
+}button:hover{
+    background-color: goldenrod;
+}
+p{
+    text-align: right;
+    font-weight: 600;
+    text-decoration: underline solid green 4px    ;
+}
+a{
+    text-decoration: none;
+}
