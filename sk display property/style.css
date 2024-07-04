@@ -1,0 +1,14 @@
+h1{
+    margin-bottom: 0px;
+}
+div{
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+    background-color: rgba(232, 184, 7, 0.699);
+}
+#box{
+    visibility: hidden;
+}
