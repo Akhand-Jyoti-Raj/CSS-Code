@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    
+}
+.navbar{
+    height: 60px;
+    background-color: #0f1111;
+}
+button{
+    background-color: #f08804;
+}
+#contant{
+    height: 620px;
+}
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
+a{
+    margin-right: 253px;
+}
+footer{
+    background-color: black;
+    text-align: center;
+}
+input{
+    color: black;
+}
+.box{
+    text-align: center;
+    border: 2px solid blue;
+    /* /* margin-top: 20px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    background-color: red; */
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+}
+.button{
+    font-size: 25px;
+}
+.button:hover{
+    background-color: red;
+}
