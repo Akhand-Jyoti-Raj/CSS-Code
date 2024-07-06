@@ -7,7 +7,7 @@ div{
     border-radius: 50%;
     border: 20px solid #ffe66d;
     border-top: 20px solid black;
-    animation: spin 3s ease-in-out 0s infinite normal;
+    animation: spin 2.25s ease-in-out 0s infinite normal;
 }
 @keyframes spin{
     from{
