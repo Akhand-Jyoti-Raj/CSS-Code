@@ -1,0 +1,33 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    border: 2px solid black;
+}
+#box1{
+    position: static;
+    top:100px;
+}
+#box2{
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+#box3{
+    position: absolute;
+    top:20px;
+    left:250px;
+}
+#box4{
+    position: fixed;
+    height: 20px;
+    width: 100vw;
+    top:20px;;
+}
+.lorem{
+    height: 0px;
+    width: 0px;
+}
+#box3{
+    position: sticky;
+}

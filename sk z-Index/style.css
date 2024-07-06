@@ -1,0 +1,18 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border: 2px solid black;
+    
+}
+
+#box1{
+    z-index: 1;
+}
+#box2{
+    position: absolute;
+    top:200px;
+    background-color: green;
+    background-image: url("cat.jpg");
+    background-size:cover;
+}
