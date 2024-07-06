@@ -1,0 +1,9 @@
+div{
+    height:  50px;
+    width: 50px;
+    background-color: pink;
+}@media (max-width:600px){
+    div{
+        background-color: red;
+    }
+}
